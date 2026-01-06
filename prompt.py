@@ -1,6 +1,6 @@
 """
 LG Art Director System STEP 2 v5.9.0 - Prompt Loader
-md 파일들을 읽어서 LG_SYSTEM_PROMPT_STEP2로 조합
+md 파일들을 읽어서 LG_SYSTEM_PROMPT로 조합
 """
 
 import os
